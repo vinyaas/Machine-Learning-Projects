@@ -4,8 +4,8 @@ This repository contains various machine learning projects demonstrating regress
 
 ## Algorithms Used
 
-- **Regression**: Linear Regression, Decision Trees
-- **Classification**: Logistic Regression, Support Vector Machines (SVM)
+- **Regression**: Linear Regression, Logistic Regression
+- **Classification**: Decision Tree , Random Forest .
 - **Clustering**: K-Means, DBSCAN
 
 ## Packages and Libraries
